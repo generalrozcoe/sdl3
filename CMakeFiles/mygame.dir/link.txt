@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/mygame.dir/src/main.cpp.o -o mygame  -Wl,-rpath,/usr/local/lib /usr/local/lib/libSDL3.so.0.3.0 
